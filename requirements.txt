@@ -1,0 +1,10 @@
+spacy
+spacy-model-en_core_web_sm
+json
+tqdm
+pytorch
+itertools
+collections
+gensim
+pickle
+flask
